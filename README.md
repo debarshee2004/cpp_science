@@ -1,2 +1,2 @@
-# cpp_course
-Notes for C++ Course
+# Notes for Cpp course
+
